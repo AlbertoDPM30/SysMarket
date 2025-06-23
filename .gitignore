@@ -1,0 +1,8 @@
+/build
+/db
+/venv
+db.debug.log
+LEEME.TXT
+
+# Ignore Python cache files
+__pycache__/
