@@ -7,7 +7,7 @@ Aplicación para facturación, gestión de ventas y administración de inventari
 ***💻Tecnologías aplicadas:***
 - Python (3.11): Lenguaje con el que se desarrolló
 - Tkinter: Para la interfaz gráfica
-- Pylance: Para empaquetar la App
+- Pyinstaller: Para empaquetar la App
 - PyMySQL: Conexión con la DB
 
 ***🧰Dependencias:***
@@ -23,5 +23,4 @@ pyinstaller-hooks-contrib==2025.1
 PyMySQL==1.1.1
 pywin32-ctypes==0.2.3
 setuptools==78.0.2
-
 ```
